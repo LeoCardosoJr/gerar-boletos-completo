@@ -39,9 +39,9 @@ const boleto = {
     especieDocumento: 'DM',
     valor: 110.00,
     datas: {
-      vencimento: '02-04-2020',
-      processamento: '02-04-2019',
-      documentos: '02-04-2019'
+      vencimento: '02-04-2025',
+      processamento: '02-04-2025',
+      documentos: '02-04-2025'
     }
   }
 };
